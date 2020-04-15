@@ -4,3 +4,6 @@ L'équipe était composé de :
 - Merlin	(Code / Game Design)
 - Tom 		(Sounds effects)
 - IchiSamaFR	(Code / Game Design / Graphique)
+
+Version build :
+https://hitboxparticipants.itch.io/end-of-the-jam-world
